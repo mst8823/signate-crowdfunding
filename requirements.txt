@@ -1,0 +1,16 @@
+beautifulsoup4
+catboost
+category_encoders
+gensim
+numpy
+pandas
+sklearn
+tqdm
+lightgbm
+scipy
+seaborn
+scikit-learn
+tensorflow
+texthero
+xfeat
+xgboost
