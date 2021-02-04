@@ -1,5 +1,5 @@
 ## 【学生限定】SIGNATE 22卒インターン選考コンペティション
-- 結果: public 1st -> private 6th
+- 結果: public 1st (0.8030) -> private 6th (0.8312)
 - コンペURL: https://signate.jp/competitions/402
 
 ## public 1st, private 6th place solution
